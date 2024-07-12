@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.container {
+    margin-top: 150px;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.choices {
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#newgame{
+background-color: rgb(0, 0, 0);
+color:white;
+}
+#hi{
+    background-color:rgb(47, 232, 23)
+}
+#hii{
+    background-color:rgb(232, 23, 23)
+}
+#hiii{
+    background-color:rgb(183, 194, 180)
+}
